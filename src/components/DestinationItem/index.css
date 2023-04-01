@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.image {
+  height: 30px;
+  width: 30px;
+  border-radius: 10px;
+}
+
+.name {
+  color: rgb(3, 3, 31);
+  font-size: 17px;
+  font-weight: bold;
+  text-align: left;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
